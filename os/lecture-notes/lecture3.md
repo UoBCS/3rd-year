@@ -2,6 +2,8 @@
 
 ## OS services
 
+![OS services](https://github.com/UoBCS/3rd-year/blob/master/os/lecture-notes/assets/lecture3-os-services.png)
+
 One set of OS services provides functions that are helpful to the user:
 
 - User interface
@@ -18,6 +20,8 @@ Another set of OS functions exists not for helping the user but rather for ensur
 - Protection and security: When several separate processes execute concurrently, it should not be possible for one process to interfere with the others or with the OS itself.
 
 ## System calls
+
+![OS services](https://github.com/UoBCS/3rd-year/blob/master/os/lecture-notes/assets/lecture3-syscalls.png)
 
 System calls are a collection of functions that form a programming interface to the services provided by the OS. 
 They are typically written in a high level language. They are mostly accessed by programs via a high-level Application
