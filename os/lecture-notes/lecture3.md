@@ -21,7 +21,7 @@ Another set of OS functions exists not for helping the user but rather for ensur
 
 ## System calls
 
-![OS services](https://github.com/UoBCS/3rd-year/blob/master/os/lecture-notes/assets/lecture3-syscall.png)
+![OS services](https://github.com/UoBCS/3rd-year/blob/master/os/lecture-notes/assets/lecture-3-syscall.png)
 
 System calls are a collection of functions that form a programming interface to the services provided by the OS. 
 They are typically written in a high level language. They are mostly accessed by programs via a high-level Application
