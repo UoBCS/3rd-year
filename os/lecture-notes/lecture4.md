@@ -55,4 +55,32 @@ Linking services dynamically is preferable to adding new features directly to th
 
 ### Virtual machines
 
+![Virtual machine](https://github.com/UoBCS/3rd-year/blob/master/os/lecture-notes/assets/lecture4-vm.png)
+
 The fundamental idea behind a virtual machine is to abstract the hardware of a single computer into several different execution environments.
+By using CPU scheduling and virtual memory techniques, an OS host can create the illusion that a process has its own processor with its own (virtual) memory.
+
+Each guest process is provided with a (virtual) copy of the underlying computer.
+
+There are several reasons for creating a VM. One important advantage is that the host system is protected from the VM, just as the VMs are protected from each other.
+At the same time, however, there is no direct sharing of resources.
+
+A VM is useful for research, development and testing environments.
+A major advantage of virtual machines in production data-center use is **system consolidation**, which involves taking 2 or more separate systems and running them in VM on one system.
+
+Emulation is different from VMs since the guest system emulates the underlying hardware.
+
+### Para-virtualisation
+
+Rather than try to
+trick a guest operating system into believing it has a system to itself, para-
+virtualization presents the guest with a system that is similar but not identical
+to the guest's preferred system. The guest must be modified to run on the
+paravirtualized hardware. The gain for this extra work is more efficient use of
+resources and a smaller virtualization layer.
+
+### Example: VMware
+
+![VMware architecture](https://github.com/UoBCS/3rd-year/blob/master/os/lecture-notes/assets/lecture4-vmware.png)
+
+VMware Workstation is a popular commercial application that abstracts Intex X86 and compatible HW into isolated VMs.
