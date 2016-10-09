@@ -72,5 +72,3 @@ Queries can be combined using the set operations UNION, INTERSECT and EXCEPT, pr
 See examples in `DBL1b.pdf` in the `material` directory.
 
 ## Subqueries
-
-
