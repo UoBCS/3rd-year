@@ -182,4 +182,6 @@ Minimisation of rate of page faults is very important.
 
 #### Thrashing
 
+A process is thrashing if it is spending more time paging than executing.
+
 
