@@ -25,3 +25,5 @@ Commands to manage modules:
 - `rmmod`: removes module from running kernel
 - `lsmod`: lists currently running modules
 - `modinfo`: gets module info
+
+To get the kernel log use: `tail -f /var/log/syslog` (the `-f` option means follow)
