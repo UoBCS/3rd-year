@@ -51,3 +51,19 @@ When creating a device node, udev reads the device's `/sys` directory for attrib
 
 ## Handling interrupts in device drivers
 
+The normal lifecycle of interrupt handling for devices:
+
+- Device sends interrupt
+- CPU selects appropriate interrupt handler
+- Interrupt handler processes the interrupt
+  * Data transfer between CPU and device
+  * Wake up processes which wait for data transfer to be finished
+- Interrupt handler clears interrupt bit of device (necessary for next interrupt to arrive)
+
+Interrupt processing must be as short as possible. Data transfer is fast but processing is slow.
+A solution to this problem is to separate interrupt processing in two halves:
+
+- **Top half**: called directly by interrupt handler; transfers data between device and appropriate kernel buffer and schedules software interrupt to start the bottom half
+- ** Bottom half**: still runs in interrupt context and does the rest of the processing
+
+## The critical-section problem (see slides)
