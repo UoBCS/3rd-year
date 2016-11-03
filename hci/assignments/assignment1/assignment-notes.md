@@ -173,13 +173,11 @@ The output of affinity diagramming will serve the project manager in order to al
 
 # References
 
-# Appendices
-
 # Appendix A
 
-Following are the fixed set of questions that have been asked to each participant. Then for each participant there will be the additional follow up questions marked as [FQ] with the original question number.
+Following are the fixed set of questions that have been asked to each participant. For each participant there will be specified questions or follow-up questions to get more insight.
 
-## Fixed set of questions
+## Set of questions
 
 ### 1. Background
 
