@@ -209,86 +209,86 @@ Following are the fixed set of questions that have been asked to each participan
 
 ## Participant 1
 
-I: What's your profession P1?
-P: Currently I'm a primary school teacher in Coventry.
-I: Are you a UK citizen?
-P: Yes, moved here from Malta 13 years ago and got citizenship.
-I: Which activity do you usually do in your free time, when you're outside?
-P: Mmm... Usually a picnic or bike riding with my family.. I have a husband and three daughters. We go to Coombe Country Park. Yeah, that's it.
-I: How often do you go to each of the following places: public parks, botanic gardens, forests? (Never, Sometimes, Usually, Often)
-P: Well... we go to parks almost every weekend. We sometimes go to the Moseley Bog in , it's really cool there.
-I: What about botanic gardens?
-P: Ah yes, I don't usually go with family but with the school. In fact we organised 2 botanical gardens trips for the year, one in the Pleasure Gardens and the other to the Tropical House in Birmingham.
-I: So, do you attend public events and/or festivals in parks - in Birmingham or Coventry?
-P: Yeah the kids love CircusMASH in Birmingham! We also went several times to the Castle Bromwich Hall Gardens for a Family Fun Programme.
-I: How do you find about such events?
-P: Well to be fair I get told about them by colleagues. Sometimes I want to search on Google but I end up getting lost... it's just too much scattered information. I can't focus, well can't select exactly what I want, when, the prices and yeah.
-I: Ok, so you think the current system for booking events/tickets and finding info in general is not working?
-P: Yes, it's just about the level of detail and how scattered is the current information.
-I: Imagine a mobile application that has all parks/forests/botanical gardens information in one place. The app will also let you manage bookings, tours and creation of events. Is something you would frequently use?
-P: Absolutely! As I said, every weekend we go to these parks in Birmingham, well sometimes in Coventry as well, where we have family events and circus stuff. I would love something to ease the whole thing.
-I: So what exactly are the aspects that you don't like about the current systems?
-P: There's quite few things actually. Firstly is the scattered information I told you about. Then is the process of organising trips. Awful, fill in forms, you have to print them then scan them, wait for weeks.
-I: So, if the process was all done using one app and all the info was there would it be easier?
-P: Definitely, it would at least ease my part of organising. As for waiting weeks that has to be done.
-I: You said you oranised a school trip. Can you please detail the process?
-P: Alright... I need to fill in a risk assessment form which details generic, site specific and on-going risks. These are prepared by the council and sent to schools. Next I need to produce forms for parental consent, allocate a certain number of supervisors, contacting the transport agency, insurance and other minor stuff related to food. All this is very tedious and takes time.
-I: Ok, so something that would bring all these documents in one place and automating some parts -those that can be of course- of the process would be helpful?
-P: I'd love something like that! Mmm, actually wait, what if I want more flexibility? Say I want to drive a minibus instead of arranging with a transport company?
-I: Easy you just skip the transport section and carry on with the other documents. Now let's move to 'forests', I think you said you went to the Moseley Bog in Birmingham?
-P: Yes, it was a while ago. It was really just a walk, nothing exceptional.
-I: Would you like more activities to be available?
-P: Few years ago, I went with my husband to Italy, to the 'I suoni delle Dolomiti' (sounds of the Dolomites) event in Trentino Alto-Adige region in the North. This is a music festival usually held in forests in the Dolomites. The way up to the acutal event had various wood artwork as well as wooden physical activities - these were actually meant for runners.
-I: Moving to the collaborative aspect of the mobile application. Imagine you are planning a day-out with another family. How would you go for that?
-P: ...
-I: Is the idea of having a remote collaboration tool that enables families to organise outdoor trips appealing?
-P: ...
-I: Let's move to the additional features of the mobile application. So, you usually go to botanical gardens and public parks (with bookable equipment and/or frequent events), would you be interested in memberships?
-P: I'm actually signed up for a membership in Birmingham City Council Parks that organise seasonal programmes including fun events for families, craft activities and guided walks.
-I: What about a general/unified membership that will benefit mainly in terms of discount?
-P: That would be amazing although I might not use it frequently. But yeah a base membership would be helpful not only for the members but also for the city council. You see, this application you have in mind is actually benefitting the city council.
-I: That's interesting... The next feature is the 360° cameras placed in each park/botanical garden that will allow you to take photos or videos and save them directly to your mobile app or share them with friends - depending on what option you choose.
-P: Yes I saw some really nice pictures on Facebook where you can see the whole scenery. I wondered how I could do that with my smartphone.
-I: Yeah you can use Facebook to do them but then you have to manually do it yourself and ensure that the scenery is somewhat static. What we are trying to do is place appropriate 360° cameras across most (if not all) parks in Birmingham and you can connect to one of them with the mobile app.
-P: That's actually really nice especially for family photos! I'm not into selfies like my eldest daughter!
-I: Do you frequently buy online? What about botanical products, flowers etc...?
-P: Yes I buy lots of clothes and devices online. Sometimes I also do food shopping online. It's so easy and without effort. As for botanical gardens I bought some flowers from the Birmingham botanical gardens website.
-I: I see... however the Birmingham botanical gardens website doesn't include all glasshouses in Birmingham and outskirts. That's why this mobile application will organise all botanical gardens items in one place and will allow people to select whatever item they want regardless of the shop - you can still select the shop you want.
-P: I like the idea although myself would not use it quite often. My colleague who lives in Billesley (Birmingham) has her own mini-glasshouse and is very interested in botanical items and products.
+- I: What's your profession P1?
+- P: Currently I'm a primary school teacher in Coventry.
+- I: Are you a UK citizen?
+- P: Yes, moved here from Malta 13 years ago and got citizenship.
+- I: Which activity do you usually do in your free time, when you're outside?
+- P: Mmm... Usually a picnic or bike riding with my family.. I have a husband and three daughters. We go to Coombe Country Park. Yeah, that's it.
+- I: How often do you go to each of the following places: public parks, botanic gardens, forests? (Never, Sometimes, Usually, Often)
+- P: Well... we go to parks almost every weekend. We sometimes go to the Moseley Bog in , it's really cool there.
+- I: What about botanic gardens?
+- P: Ah yes, I don't usually go with family but with the school. In fact we organised 2 botanical gardens trips for the year, one in the Pleasure Gardens and the other to the Tropical House in Birmingham.
+- I: So, do you attend public events and/or festivals in parks - in Birmingham or Coventry?
+- P: Yeah the kids love CircusMASH in Birmingham! We also went several times to the Castle Bromwich Hall Gardens for a Family Fun Programme.
+- I: How do you find about such events?
+- P: Well to be fair I get told about them by colleagues. Sometimes I want to search on Google but I end up getting lost... it's just too much scattered information. I can't focus, well can't select exactly what I want, when, the prices and yeah.
+- I: Ok, so you think the current system for booking events/tickets and finding info in general is not working?
+- P: Yes, it's just about the level of detail and how scattered is the current information.
+- I: Imagine a mobile application that has all parks/forests/botanical gardens information in one place. The app will also let you manage bookings, tours and creation of events. Is something you would frequently use?
+- P: Absolutely! As I said, every weekend we go to these parks in Birmingham, well sometimes in Coventry as well, where we have family events and circus stuff. I would love something to ease the whole thing.
+- I: So what exactly are the aspects that you don't like about the current systems?
+- P: There's quite few things actually. Firstly is the scattered information I told you about. Then is the process of organising trips. Awful, fill in forms, you have to print them then scan them, wait for weeks.
+- I: So, if the process was all done using one app and all the info was there would it be easier?
+- P: Definitely, it would at least ease my part of organising. As for waiting weeks that has to be done.
+- I: You said you oranised a school trip. Can you please detail the process?
+- P: Alright... I need to fill in a risk assessment form which details generic, site specific and on-going risks. These are prepared by the council and sent to schools. Next I need to produce forms for parental consent, allocate a certain number of supervisors, contacting the transport agency, insurance and other minor stuff related to food. All this is very tedious and takes time.
+- I: Ok, so something that would bring all these documents in one place and automating some parts -those that can be of course- of the process would be helpful?
+- P: I'd love something like that! Mmm, actually wait, what if I want more flexibility? Say I want to drive a minibus instead of arranging with a transport company?
+- I: Easy you just skip the transport section and carry on with the other documents. Now let's move to 'forests', I think you said you went to the Moseley Bog in Birmingham?
+- P: Yes, it was a while ago. It was really just a walk, nothing exceptional.
+- I: Would you like more activities to be available?
+- P: Few years ago, I went with my husband to Italy, to the 'I suoni delle Dolomiti' (sounds of the Dolomites) event in Trentino Alto-Adige region in the North. This is a music festival usually held in forests in the Dolomites. The way up to the acutal event had various wood artwork as well as wooden physical activities - these were actually meant for runners.
+- I: Moving to the collaborative aspect of the mobile application. Imagine you are planning a day-out with another family. How would you go for that?
+- P: ...
+- I: Is the idea of having a remote collaboration tool that enables families to organise outdoor trips appealing?
+- P: ...
+- I: Let's move to the additional features of the mobile application. So, you usually go to botanical gardens and public parks (with bookable equipment and/or frequent events), would you be interested in memberships?
+- P: I'm actually signed up for a membership in Birmingham City Council Parks that organise seasonal programmes including fun events for families, craft activities and guided walks.
+- I: What about a general/unified membership that will benefit mainly in terms of discount?
+- P: That would be amazing although I might not use it frequently. But yeah a base membership would be helpful not only for the members but also for the city council. You see, this application you have in mind is actually benefitting the city council.
+- I: That's interesting... The next feature is the 360° cameras placed in each park/botanical garden that will allow you to take photos or videos and save them directly to your mobile app or share them with friends - depending on what option you choose.
+- P: Yes I saw some really nice pictures on Facebook where you can see the whole scenery. I wondered how I could do that with my smartphone.
+- I: Yeah you can use Facebook to do them but then you have to manually do it yourself and ensure that the scenery is somewhat static. What we are trying to do is place appropriate 360° cameras across most (if not all) parks in Birmingham and you can connect to one of them with the mobile app.
+- P: That's actually really nice especially for family photos! I'm not into selfies like my eldest daughter!
+- I: Do you frequently buy online? What about botanical products, flowers etc...?
+- P: Yes I buy lots of clothes and devices online. Sometimes I also do food shopping online. It's so easy and without effort. As for botanical gardens I bought some flowers from the Birmingham botanical gardens website.
+- I: I see... however the Birmingham botanical gardens website doesn't include all glasshouses in Birmingham and outskirts. That's why this mobile application will organise all botanical gardens items in one place and will allow people to select whatever item they want regardless of the shop - you can still select the shop you want.
+- P: I like the idea although myself would not use it quite often. My colleague who lives in Billesley (Birmingham) has her own mini-glasshouse and is very interested in botanical items and products.
 
 ## Participant 2
 
-I: What is your profession?
-P: I work as a nanny here in Birmingham, near Moseley.
-I: Are you a UK citizen?
-P: No, no I'm Italian, from Rovereto a small city in the North of Italy.
-I: That's interesting, so how long have you been in the UK?
-P: Almost 2 years now... I spent 5 months in Derby then moved to Birmingham in 2015.
-I: You left Italy to come to the UK? How come?
-P: Yeah a lot of people ask me the same question! I came here to finish my studies in social sciences. I'm doing part-time, since I'm a single mother with 2 children... so yeah I have to work to keep up with the costs.
-I: Have you every visited the UK before coming here to study/work?
-P: Yes I have been a couple of times in London and Birmingham. This was about 3 or 4 years ago. I was here with a friend from France... It was a nice experience, in particual London!
-I: So, did you attend events, festivals and other activities in parks or open spaces when you first came here to Birmingham?
-P: Yes, I went to lots of parks here, because I used to go out with family a lot back in Italy. We have lots of forests and guided walks. Basically I went to Cannon Hill Park, Winterbourne, Swanhurst Park, Kings Heath Park... yeah and the one I usually bring the children to, Sheldon.
-I: Oh that's nice, what kind of activities do you practice in these places?
-P: I always go for events or festivals like the Outdoor Leadership Centre, Kids Run Free in Kings Heath Park and Walking Meditation in Cannon Hill Park near the cricket ground. I like to run a lot, it's rewarding and keeps the stress away... I go often now, to these events, since I know Birmingham very well. Back in Italy there are more forests than big public parks, since I live near the alps I usually go up to mountains such as Montalbano di Mori, Monte Zugna and many others.
-I: So how do you find out about these events?
-P: I just check online with my phone. I usually find quickly the information there, but mostly it's just my friend that tells me about them.
-I: You said that you usually find quickly the info you want. I assume that sometimes you can't find the information right?
-P: Yeah especially when some sites are under construction or there is a page not found. This happens quite a lot actually. All the parks are accessible from the Visit Birmingham website which is really nice and straightforward. From there all links bring you to different websites, which is very unpleasent. I don't like it, especially when the website is bad, the colours are awful.
-I: So your concern is about the sparse information?
-P: Yeah you can't.. you have to click and go here and there just to find something. I don't like it at all; when I first came here [...]
-I: Would it be a nice idea to have all information regarding events and other activities in all public parks/forests/botanic gardens be available in one place? Like in map and text format. Big events will be highlighted and recommendation/reviews from users will be enabled. Ticket and all administrative concerns will be included in the application.
-P: That would be fantastic... [...]
-I: Earlier you said back in Italy you were into forests and mountains. What do you think forests (small or medium sized) lack in terms of equipment and activities here in Birmingham?
-P: I think Birmingham has great green spaces and open spaces in general. But I haven't seen big activities or festivals in forests. In terms of events I'd like to see music festivals, and for activities a kind of street workout but in the forest would be great; I remember this from a place in London where me and some family friends went to. 
-I: The mobile app will feature a route planner (walk, run or bike ride) which you can collaboratively build with other people. What's your opinion on this?
-P: Mmm... I honestly don't see the point in it. I would love to use it for myself but not with other people remotely; we can just text each other.
-I: Wouldn't it be fraustrating to text or even to call? I mean in collaboration, through map highlighting and video calls, you can quicly decide where to go and what to do.
-P: Yeah, I mean I can try it just to test a different setup maybe.
-I: I see that you are involved into the leisures activities in Birmingham's public parks. Would you be interested in a general membership of all parks? Through the mobile app you can also apply for individual ones.
-P: Amazing, currently I have memberships for events in Swanhurst and Cannon Hill parks. I'm signed up to their newsletters so I really would like a general membership for all Birmingham parks; see, even if I don't go to some the mere fact I get event information via email is great!
-I: Now let's move to the 360° cameras feature. The system will have 360° cameras placed at each park/botanical garden in Birmingham. Using the mobile app people can connect to one of these by activating the location option and waiting for the application to locate the camera. Afterwards every picture or video taken by the camera will be sent to the application which can be later shared. What is your opinion on such system?
-P: I use Facebook a lot so that would be great. I set up a FB group with Italian friends where me - in the UK - and others in France and Germany post pictures, so I would definitely use it.
-I: Nice, do you frequently buy online?
-P: I just recently started to buy online, to be honest. In Italy this practice is not very popular; this is because most people don't have that attachment to technology for everything. This is also influenced by the state. In fact lots of administrative stuff is still done using paper, whereas here in the UK there are a lot of online services. That's why people in the UK are more inclined to online solutions compared to Italians.
+- I: What is your profession?
+- P: I work as a nanny here in Birmingham, near Moseley.
+- I: Are you a UK citizen?
+- P: No, no I'm Italian, from Rovereto a small city in the North of Italy.
+- I: That's interesting, so how long have you been in the UK?
+- P: Almost 2 years now... I spent 5 months in Derby then moved to Birmingham in 2015.
+- I: You left Italy to come to the UK? How come?
+- P: Yeah a lot of people ask me the same question! I came here to finish my studies in social sciences. I'm doing part-time, since I'm a single mother with 2 children... so yeah I have to work to keep up with the costs.
+- I: Have you every visited the UK before coming here to study/work?
+- P: Yes I have been a couple of times in London and Birmingham. This was about 3 or 4 years ago. I was here with a friend from France... It was a nice experience, in particual London!
+- I: So, did you attend events, festivals and other activities in parks or open spaces when you first came here to Birmingham?
+- P: Yes, I went to lots of parks here, because I used to go out with family a lot back in Italy. We have lots of forests and guided walks. Basically I went to Cannon Hill Park, Winterbourne, Swanhurst Park, Kings Heath Park... yeah and the one I usually bring the children to, Sheldon.
+- I: Oh that's nice, what kind of activities do you practice in these places?
+- P: I always go for events or festivals like the Outdoor Leadership Centre, Kids Run Free in Kings Heath Park and Walking Meditation in Cannon Hill Park near the cricket ground. I like to run a lot, it's rewarding and keeps the stress away... I go often now, to these events, since I know Birmingham very well. Back in Italy there are more forests than big public parks, since I live near the alps I usually go up to mountains such as Montalbano di Mori, Monte Zugna and many others.
+- I: So how do you find out about these events?
+- P: I just check online with my phone. I usually find quickly the information there, but mostly it's just my friend that tells me about them.
+- I: You said that you usually find quickly the info you want. I assume that sometimes you can't find the information right?
+- P: Yeah especially when some sites are under construction or there is a page not found. This happens quite a lot actually. All the parks are accessible from the Visit Birmingham website which is really nice and straightforward. From there all links bring you to different websites, which is very unpleasent. I don't like it, especially when the website is bad, the colours are awful.
+- I: So your concern is about the sparse information?
+- P: Yeah you can't.. you have to click and go here and there just to find something. I don't like it at all; when I first came here [...]
+- I: Would it be a nice idea to have all information regarding events and other activities in all public parks/forests/botanic gardens be available in one place? Like in map and text format. Big events will be highlighted and recommendation/reviews from users will be enabled. Ticket and all administrative concerns will be included in the application.
+- P: That would be fantastic... [...]
+- I: Earlier you said back in Italy you were into forests and mountains. What do you think forests (small or medium sized) lack in terms of equipment and activities here in Birmingham?
+- P: I think Birmingham has great green spaces and open spaces in general. But I haven't seen big activities or festivals in forests. In terms of events I'd like to see music festivals, and for activities a kind of street workout but in the forest would be great; I remember this from a place in London where me and some family friends went to. 
+- I: The mobile app will feature a route planner (walk, run or bike ride) which you can collaboratively build with other people. What's your opinion on this?
+- P: Mmm... I honestly don't see the point in it. I would love to use it for myself but not with other people remotely; we can just text each other.
+- I: Wouldn't it be fraustrating to text or even to call? I mean in collaboration, through map highlighting and video calls, you can quicly decide where to go and what to do.
+- P: Yeah, I mean I can try it just to test a different setup maybe.
+- I: I see that you are involved into the leisures activities in Birmingham's public parks. Would you be interested in a general membership of all parks? Through the mobile app you can also apply for individual ones.
+- P: Amazing, currently I have memberships for events in Swanhurst and Cannon Hill parks. I'm signed up to their newsletters so I really would like a general membership for all Birmingham parks; see, even if I don't go to some the mere fact I get event information via email is great!
+- I: Now let's move to the 360° cameras feature. The system will have 360° cameras placed at each park/botanical garden in Birmingham. Using the mobile app people can connect to one of these by activating the location option and waiting for the application to locate the camera. Afterwards every picture or video taken by the camera will be sent to the application which can be later shared. What is your opinion on such system?
+- P: I use Facebook a lot so that would be great. I set up a FB group with Italian friends where me - in the UK - and others in France and Germany post pictures, so I would definitely use it.
+- I: Nice, do you frequently buy online?
+- P: I just recently started to buy online, to be honest. In Italy this practice is not very popular; this is because most people don't have that attachment to technology for everything. This is also influenced by the state. In fact lots of administrative stuff is still done using paper, whereas here in the UK there are a lot of online services. That's why people in the UK are more inclined to online solutions compared to Italians.
