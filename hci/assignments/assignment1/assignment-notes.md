@@ -119,16 +119,17 @@ It should be noted that observation can be obtrusive and subjects may alter thei
 
 # Method
 
-The method chosen to gather user requirements is interviews. Firstly, a mixed approach (questionnaires + interviews) was intended; however, as noted in [http://pareonline.net/getvn.asp?v=15&n=1], ...
+The method chosen to gather user requirements is interviews. Firstly, a mixed approach (questionnaires + interviews) was intended; however, as noted in [http://pareonline.net/getvn.asp?v=15&n=1], problems may arise when aligning data from the two 
+different  methods.
+
 Questionnaires are a relatively quick method of determining preferences of large user groups, however they do not capture in depth comments and may not permit follow-up.
+
 Because of the one-to-one nature of the interview process, what is talked about can directly address the informant's individual concerns. Mistakes and misunderstandings can be quickly identified and cleared up (aspect not possible
 in questionnaires).
-On the other hand, observational techniques are very useful to relate users with the environment they are involved in. In fact with the other two methods it is not possible to capture aspects that  However drawbacks of observational techniques are their obtrusive nature,
-limited applicability and time. Limited applicability means that for some use cases their use does not lead to efficient requirement gathering. In fact they are very useful in industrial or work settings rather than
-assessing leisure activities.
 
-In this use case interviews are the best tool in the sense that if correctly planned they lead to accurate and in-depth results with additional information being gathered. Moreover we can achieve the same qualitative and quantitative
-balance that questionnaires offer (although more qualitative-inclined).
+On the other hand, observational techniques are very useful to relate users with the environment they are involved in. In fact with the other two methods it is not possible to capture aspects that related to the working context. However drawbacks of observational techniques are their obtrusive nature, limited applicability and time. Limited applicability means that for some use cases their use does not lead to efficient requirement gathering. In fact they are very useful in industrial or work settings rather than assessing leisure activities.
+
+In this use case interviews are the best tool in the sense that if correctly planned they lead to accurate and in-depth results with additional information being gathered. Moreover we can achieve the same qualitative and quantitative balance that questionnaires offer (although more qualitative-inclined).
 
 # Planning and study
 
@@ -140,7 +141,7 @@ Following is how to run the interviews:
 4. A document of confidentiality and consent will be presented to the participants. The participants can choose anonimity.
 5. At this point a brief background of the study will be presented to the participants. This helps contextualise the focus of the questions and their responses.
 
-After this, it is useful to consider the interview in five main stages [oro-req-gathering.pdf]:
+After this, it is useful to consider the interview in five main stages as defined in [oro-req-gathering.pdf]:
 
 1. Background: obtain the subjects' background details, such as their experience with previous planning applications and experience in general.
 2. Letting off steam: asking general question about the topic to allow the building of a relationship between interviewer and participant.
@@ -148,7 +149,7 @@ After this, it is useful to consider the interview in five main stages [oro-req-
 4. Addressing issues: any issues that have not naturally been dealt with through (3) should now be introduced.
 5. Debriefing/conclusion: here there will be a reaffirmation that the info will be dealt with in the strictest confidence. If the participant wants to raise additional discussion points this is the time to deal with them.
 
-The selected participants are 2 local people and 1 EU citizen (recently moved to the UK - kind of tourist).
+The selected participants are 1 school teacher and 1 EU citizen (recently moved to the UK - kind of tourist).
 
 The question set can be found in Appendix A.
 Appendix B contains the transcripts (raw interview data).
@@ -230,7 +231,7 @@ Following are the fixed set of questions that have been asked to each participan
 
 ## Participant 1
 
-- I: What's your profession P1?
+- I: What is your profession?
 - P: Currently I'm a primary school teacher in Coventry.
 - I: Are you a UK citizen?
 - P: Yes, moved here from Malta 13 years ago and got citizenship.
