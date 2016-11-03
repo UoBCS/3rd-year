@@ -199,8 +199,7 @@ Following are the fixed set of questions that have been asked to each participan
 
 1. If you usually go to botanical gardens and public parks (with bookable equipment and/or frequent events), would you be interested in memberships?
 1.1 If yes, is the idea of having individual memberships of all green spaces in Birmingham appealing? What about a general membership/discount set up by the city council?
-2. The system will have 360° cameras placed at each park/botanical garden in Birmingham. Using the mobile app people can connect to one of these by activating the location option and waiting
-for the application to locate the camera. Afterwards every picture or video taken by the camera will be sent to the application which can be later shared. What is your opinion on such system?
+2. The system will have 360° cameras placed at each park/botanical garden in Birmingham. Using the mobile app people can connect to one of these by activating the location option and waiting for the application to locate the camera. Afterwards every picture or video taken by the camera will be sent to the application which can be later shared. What is your opinion on such system?
 3. Do you frequently buy online? What about botanical products, flowers etc...?
 
 # Appendix B
@@ -279,6 +278,17 @@ I: You said that you usually find quickly the info you want. I assume that somet
 P: Yeah especially when some sites are under construction or there is a page not found. This happens quite a lot actually. All the parks are accessible from the Visit Birmingham website which is really nice and straightforward. From there all links bring you to different websites, which is very unpleasent. I don't like it, especially when the website is bad, the colours are awful.
 I: So your concern is about the sparse information?
 P: Yeah you can't.. you have to click and go here and there just to find something. I don't like it at all; when I first came here [...]
-I: 
-
-
+I: Would it be a nice idea to have all information regarding events and other activities in all public parks/forests/botanic gardens be available in one place? Like in map and text format. Big events will be highlighted and recommendation/reviews from users will be enabled. Ticket and all administrative concerns will be included in the application.
+P: That would be fantastic... [...]
+I: Earlier you said back in Italy you were into forests and mountains. What do you think forests (small or medium sized) lack in terms of equipment and activities here in Birmingham?
+P: I think Birmingham has great green spaces and open spaces in general. But I haven't seen big activities or festivals in forests. In terms of events I'd like to see music festivals, and for activities a kind of street workout but in the forest would be great; I remember this from a place in London where me and some family friends went to. 
+I: The mobile app will feature a route planner (walk, run or bike ride) which you can collaboratively build with other people. What's your opinion on this?
+P: Mmm... I honestly don't see the point in it. I would love to use it for myself but not with other people remotely; we can just text each other.
+I: Wouldn't it be fraustrating to text or even to call? I mean in collaboration, through map highlighting and video calls, you can quicly decide where to go and what to do.
+P: Yeah, I mean I can try it just to test a different setup maybe.
+I: I see that you are involved into the leisures activities in Birmingham's public parks. Would you be interested in a general membership of all parks? Through the mobile app you can also apply for individual ones.
+P: Amazing, currently I have memberships for events in Swanhurst and Cannon Hill parks. I'm signed up to their newsletters so I really would like a general membership for all Birmingham parks; see, even if I don't go to some the mere fact I get event information via email is great!
+I: Now let's move to the 360° cameras feature. The system will have 360° cameras placed at each park/botanical garden in Birmingham. Using the mobile app people can connect to one of these by activating the location option and waiting for the application to locate the camera. Afterwards every picture or video taken by the camera will be sent to the application which can be later shared. What is your opinion on such system?
+P: I use Facebook a lot so that would be great. I set up a FB group with Italian friends where me - in the UK - and others in France and Germany post pictures, so I would definitely use it.
+I: Nice, do you frequently buy online?
+P: I just recently started to buy online, to be honest. In Italy this practice is not very popular; this is because most people don't have that attachment to technology for everything. This is also influenced by the state. In fact lots of administrative stuff is still done using paper, whereas here in the UK there are a lot of online services. That's why people in the UK are more inclined to online solutions compared to Italians.
