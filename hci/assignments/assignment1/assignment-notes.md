@@ -254,8 +254,8 @@ Following are the fixed set of questions that have been asked to each participan
 - I: You said you oranised a school trip. Can you please detail the process?
 - P: Alright... I need to fill in a risk assessment form which details generic, site specific and on-going risks. These are prepared by the council and sent to schools. Next I need to produce forms for parental consent, allocate a certain number of supervisors, contacting the transport agency, insurance and other minor stuff related to food. All this is very tedious and takes time.
 - I: Ok, so something that would bring all these documents in one place and automating some parts -those that can be of course- of the process would be helpful?
-- P: I'd love something like that! Mmm, actually wait, what if I want more flexibility? Say I want to drive a minibus instead of arranging with a transport company?
-- I: Easy you just skip the transport section and carry on with the other documents. Now let's move to 'forests', I think you said you went to the Moseley Bog in Birmingham?
+- P: I'd love something like that! Now that you raised this point I remember my cousin's wedding in Cannon Hill Park. The time spent in finding the right park was in itself a bit annoying. Then the paperwork for booking the park is incredible; I'm talking only about the venue... imagine the other aspects such as clothes, food etc...
+- I: I see... now let's move to 'forests', I think you said you went to the Moseley Bog in Birmingham?
 - P: Yes, it was a while ago. It was really just a walk, nothing exceptional.
 - I: Would you like more activities to be available?
 - P: Few years ago, I went with my husband to Italy, to the 'I suoni delle Dolomiti' (sounds of the Dolomites) event in Trentino Alto-Adige region in the North. This is a music festival usually held in forests in the Dolomites. The way up to the acutal event had various wood artwork as well as wooden physical activities - these were actually meant for runners.
