@@ -5,42 +5,54 @@ is that we intervene to change the situation as it is; we hope, of course, chang
 
 # Goal of the research
 
-TWO STAGES FOR USER IDENTIFICATION:
-- MAKING CLEAR WHICH GROUPS OF USERS WE ARE TARGETING THROUGH STAKEHOLDER ANALYSIS
-- USER NEEDS MUST BE IDENTIFIED THROUGH THE VARIOUS REQ. GATHERING TECHNIQUES
-
 The goal of the research is to inform the design of a mobile tourism application targeted at parks, botanical gardens and green spaces in general and how tourists (or local people) can find them in a city and interact with them.
-In addition the users should be able to exactly find what they are looking for (e.g. specific events, events for children etc...).
-The interaction design is established for a new mobile application.
-Therefore the purpose of the system is to manage all aspects related to registering to an outdoor event (parks/green spaces), planning with other families (picnics),
-check the available equipment, activities and more. The efficiency of the application comes when people want to organise outdoor activities such as educational visits, family venue hire (e.g. weddings); therefore it might be limited for individual use.
+The application will include specific events in various areas (food, music etc...), festivals, fun family days, events for children etc... Every aspect related to booking tickets, venues or equipment, guided tours and more will be handled by the application.
+The interaction design is established for a new mobile application instead of analysing the design of pre-existing systems.
+The efficiency of the application comes when people want to organise outdoor activities such as educational visits, family venue hire (e.g. weddings); therefore it might be limited for individual use.
 Moreover people can build their own tours and share it with others.
-Another goal of the system is to let users to apply for various memberships through the same application.
-For botanic gardens there will also be an online shop which sells items that can be collected from the garden itself or delivered.
 
-On-field devices on the field allow for virtual tours (if guides are not available) and walking/bike tours indicators.
-Another on-field device is the 360 camera placed at panoramic views. This allows people to take group photos and save them to their mobile through the application and/or share them through social media.
+Another goal of the system is to let users to apply for various memberships through the same application. A general membership for all green spaces in the designated city will be available.
+For botanical gardens there will also be an online shop which sells items that can be collected from the garden itself or delivered.
+
+On-field devices will allow virtual (if guides are not available) and walking/bike tours.
+Another on-field device is the 360° camera which will be placed at panoramic views. This allows people to take group photos and save them to their mobile through the application and/or share them through social media (see Facebook 360° picture/video support).
 
 The research will include insights on the advantages and disadvantages of pre-existing systems.
 Before delving into the description of the various requirements gathering techniques, constraints and trade-offs of the systems will be outlined.
 
+A 2-stage user identification process has been adopted:
+1. Making clear which groups of users we are targeting through stakeholder analysis
+2. User needs must be identified through the various requirements gathering techniques.
+
 ## Constraints
 
-The actual development of the mobile application requires data access to the city council and permission from the latter to place devices used by the mobile application across the selected parks and gardens.
-This may be a long process, thus careful consideration must be taken. Another issue is the cost of the devices and the time of development of both the actual application and the infrastructure.
+Following are the constraints that the development of such mobile application must consider:
 
-In terms of health and safety there are no constraint or issues.
+- The actual development of the mobile application requires permission of data access from the city council.
+- Permission is required to place devices used by the mobile application across the selected parks and gardens.
+- Cost of the devices.
+- Time of development of both the actual application and the infrastructure.
+- For the membership feature, collaboration is needed between the development team, the city council and the green spaces associations (if not affiliated with the city council - such as many botanical gardens).
 
 ## Trade-offs
 
-> Choosing which goals or constraints can be relaxed so that others can be met.
+This section will outline which goals or constraints can be relaxed so that others can be met.
 
-If the council does not allow the devices to be placed in the agreed spaces then the development of virtual tours and the placement of 360° cameras can be cancelled or post-poned for a next release of the software.
+If the council does not allow the devices to be placed in the agreed spaces then the placement of 360° cameras can be cancelled or post-poned for a next release of the software.
+
+However the development of virtual tours is of utmost importance since it will directly benefit tourists (the primary users).
+Therefore more time must be allocated for the agreement between the two parties and the placement and risk assessment of such devices.
+
+Memberships play an important role in the application since they enable local people to interact directly with the various green spaces.
 
 ## Stakeholder analysis
 
-As (ref_name) states, stakeholder analysis identifies all the users and stakeholders who may influence or be impacted by the system.
-This helps ensure that the needs of all those involved are taken into account. The user groups ideal for this mobile application are: tourists, local people and school teachers (for educational visits).
+As [user_req_analysis.pdf] states, stakeholder analysis identifies all the users and stakeholders who may influence or be impacted by the system.
+This helps ensure that the needs of all those involved are taken into account. The user groups for this mobile application are:
+
+- Primary users: tourists, local people and school teachers
+- Secondary users: city council, schools, botanical gardens associations or companies
+
 The research will focus on tourists and school teachers since elements that may arise from local people are included in those that arise from school teachers.
 
 For each stakeholder group we will identify their main roles, responsibilities and task goals in relation to the system.
@@ -50,46 +62,52 @@ For each stakeholder group we will identify their main roles, responsibilities a
 The main roles of tourists is to collaboratively book guided tours (preferrably not virtual) and check parks equipment.
 Their tasks involve:
 
-- Collaborative planning of tours and share them with others in the same area (which can be rated by the latter)
-- Check and book park equipment
-- Find walking/bike tours
-- Buy from botanic gardens
+- Collaborative planning of tours and share them with others in the same area (which can be rated by the latter).
+- Check and book park equipment.
+- Find walking/bike tours.
 
 ### Local people
 
-The main roles of local people in regards to the mobile app is to collaboratively plan ... with other families or between themselves. Their tasks involve:
+The main roles of local people in regards to the mobile app is to collaboratively plan tours or activities with other families or between themselves.
+Their tasks involve:
 
-- 
+- Collaborative planning of tours and sharing of the latter.
+- Booking tickets for events/festivals.
+- Booking venues for family fun or weddings.
+- Buy from botanical gardens.
+- Apply for memberships.
 
 ### School teachers
 
-
+School teachers may be part of the local people user group, however they require additional tasks including organisation of school trips which in turn contains all documents and administration aspects of organising a trip.
 
 # Requirements gathering techniques and their impact on the goal
 
 In this section we are going to explore the different requirements gathering techniques, how they can be used efficiently and for which aspect of the research they are useful.
+
 The research wants to get insights on the important aspects of interactions with green spaces:
 
-- what are the difficulties of the planning phase?
 - what are the current practices to plan outdoor activities?
-- is the prospect of having a unified and focussed (in terms of area, e.g. Birmingham) app appealing?
+- what are the difficulties of such planning phase?
+- is the prospect of having a unified and focussed (in terms of area, e.g. Birmingham and information availability) app appealing?
 
 In this regard we are going to explore the 3 different methods of requirements gathering: questionnaires, interviews and observation methods.
 
 ## Questionnaires
 
 Questionnaires involve administering a set of written questions to a sample population of users. They can help determine the needs of users, current work practices and attitudes to new system ideas. [user-req-analysis.pdf]
-Using questionnaires it is possible to target a large sample of people. This is useful to gather data on a wide variety of topics, quickly and cheaply. Questionnaires are more efficient when they mainly provide
+When using questionnaires it is possible to target a large sample of people. This is useful to gather data on a wide variety of topics, quickly and cheaply. Questionnaires are more efficient when they mainly provide
 quantitative data (although nothing prevents from qualitative data to be used). However questionnaires are not useful in situations when possible new insights might be captured by follow-up (flexible) questions which
-are not included in the questionnaire. This leads us to the analysis of interviews.
+are not included in the questionnaire. Moreover participants may rush the questionnaire or give inaccurate answers. Interpretation of the questions may vary from individual to individual if the query is not correctly formulated. This leads us to the analysis of interviews.
 
 ## Interviews
 
-As [user-req-analysis.pdf] states, interviewing is a commonly used technique where users, stakeholders and domain experts are questioned to gain information about their needs or
-requirements in relation to the new system. Interviews are usually semi-structured based on a series of fixed questions with scope for the user to expand on their responses.
+As [user-req-analysis.pdf] states, interviewing is a commonly used technique where users, stakeholders and domain experts are questioned to gain information about their needs or requirements in relation to the new system. Interviews are usually semi-structured based on a series of fixed questions with scope for the user to expand on their responses.
 
 This technique can obtain private aspects of behaviour and collect detailed qualitative data. When dealing with different groups of stakeholders a semi-structured approach must be taken: start with structured/base questions
 and, towards the end, try to uncover additional information not planned in the questions.
+
+The advantage of using interviews instead of questionnaires is that new ideas may arise during the conversation that could not be captured by a questionnaire. This gives 
 
 ## Observation
 
@@ -152,6 +170,8 @@ The output of affinity diagramming will serve the project manager in order to al
 # Considerations
 
 # References
+
+# Appendices
 
 # Appendix A
 
