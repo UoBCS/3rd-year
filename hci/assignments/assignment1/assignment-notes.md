@@ -274,9 +274,7 @@ Following are the fixed set of questions that have been asked to each participan
 - I: Yeah you can use Facebook to do them but then you have to manually do it yourself and ensure that the scenery is somewhat static. What we are trying to do is place appropriate 360° cameras across most (if not all) parks in Birmingham and you can connect to one of them with the mobile app.
 - P: That's actually really nice especially for family photos! I'm not into selfies like my eldest daughter!
 - I: Do you frequently buy online? What about botanical products, flowers etc...?
-- P: Yes I buy lots of clothes and devices online. Sometimes I also do food shopping online. It's so easy and without effort. As for botanical gardens I bought some flowers from the Birmingham botanical gardens website.
-- I: I see... however the Birmingham botanical gardens website doesn't include all glasshouses in Birmingham and outskirts. That's why this mobile application will organise all botanical gardens items in one place and will allow people to select whatever item they want regardless of the shop - you can still select the shop you want.
-- P: I like the idea although myself would not use it quite often. My colleague who lives in Billesley (Birmingham) has her own mini-glasshouse and is very interested in botanical items and products.
+- P: Yes I buy lots of clothes and devices online. Sometimes I also do food shopping online. It's so easy and without effort. As for botanical gardens I bought some flowers from the Birmingham botanical gardens website. However I had to search in various botanical garden websites.. I think it was the Mediterranean and Arid houses. So yeah, before actually getting the indoor geranium I wanted I had to look for a while.
 
 ## Participant 2
 
