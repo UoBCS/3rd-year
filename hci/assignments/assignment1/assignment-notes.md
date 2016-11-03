@@ -107,7 +107,9 @@ As [user-req-analysis.pdf] states, interviewing is a commonly used technique whe
 This technique can obtain private aspects of behaviour and collect detailed qualitative data. When dealing with different groups of stakeholders a semi-structured approach must be taken: start with structured/base questions
 and, towards the end, try to uncover additional information not planned in the questions.
 
-The advantage of using interviews instead of questionnaires is that new ideas may arise during the conversation that could not be captured by a questionnaire. This gives 
+The advantage of using interviews instead of questionnaires is that new ideas may arise during the conversation that could not be captured by a questionnaire. This gives an in-depth look at each participant. 
+
+However the questions may be biased; this will lead the participant to give answers that will satisfy the goals of the research
 
 ## Observation
 
