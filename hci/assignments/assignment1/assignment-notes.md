@@ -109,22 +109,21 @@ and, towards the end, try to uncover additional information not planned in the q
 
 The advantage of using interviews instead of questionnaires is that new ideas may arise during the conversation that could not be captured by a questionnaire. This gives an in-depth look at each participant. 
 
-However the questions may be biased; this will lead the participant to give answers that will satisfy the goals of the research
+However the questions may be biased; this will lead the participant to give answers that will satisfy the goals of the research.
 
 ## Observation
 
-Observational methods involve an investigator viewing users as they work in a field study, and taking notes on the activity that takes place [www.usabilitynet.org/tools/userobservation.htm]
+Observational methods involve an investigator viewing users as they work in a field study, and taking notes on the activity that takes place. [www.usabilitynet.org/tools/userobservation.htm]
 A benefit of this method is that it allows the observer to view what users actually do in context.
-It should be noted that observation can be obtrusive and subjects may alter their behaviour due to the presence of an observer. Another problem is the length of the process since the interaction design research must look
-at 3 different groups of users.
+It should be noted that observation can be obtrusive and subjects may alter their behaviour due to the presence of an observer. Another problem is the length of the process since the interaction design research must look at 3 different groups of users.
 
 # Method
 
 The method chosen to gather user requirements is interviews. Firstly, a mixed approach (questionnaires + interviews) was intended; however, as noted in [http://pareonline.net/getvn.asp?v=15&n=1], ...
-Moreover questionnaires are a relatively quick method of determining preferences of large user groups, however they do not capture in depth comments and may not permit follow-up.
-Because of the one-to-one nature of the interview process, what is talked about can address directly the informant's individual concerns. Mistakes and misunderstandings can be quickly identified and cleared up (aspect not possible
+Questionnaires are a relatively quick method of determining preferences of large user groups, however they do not capture in depth comments and may not permit follow-up.
+Because of the one-to-one nature of the interview process, what is talked about can directly address the informant's individual concerns. Mistakes and misunderstandings can be quickly identified and cleared up (aspect not possible
 in questionnaires).
-On the other hand, observational techniques are very useful to relate users with the environment they are involved in. In fact with the other two methods ... However drawbacks of observational techniques are their obtrusive nature,
+On the other hand, observational techniques are very useful to relate users with the environment they are involved in. In fact with the other two methods it is not possible to capture aspects that  However drawbacks of observational techniques are their obtrusive nature,
 limited applicability and time. Limited applicability means that for some use cases their use does not lead to efficient requirement gathering. In fact they are very useful in industrial or work settings rather than
 assessing leisure activities.
 
